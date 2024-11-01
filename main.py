@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 
 company = input("Enter a string: ")
-path = "C:\\Users\\91721\\OneDrive\\Desktop\\SEM4\\CSV\\"+company+".csv"
+path = "C:\\Users\\______\\Desktop\\Python\\StockWiz\\" + company + ".csv"
 print (path)
 
 
